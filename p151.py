@@ -69,7 +69,7 @@ for i in num :
     i=int(i)
     if i%2==1 :
         cnt=cnt+1
-print('홀수의 개수: %d개'%cnt)
+print('홀수의 개수: %d개'%cnt)  #
 
 
 
